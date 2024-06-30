@@ -17,7 +17,7 @@ main{
   
 }
 .overlay {
-  opacity: 0.5; /* Makes the element 50% transparent */
+  opacity: 0.5; 
 }
 article{
   flex: 2;
@@ -29,6 +29,6 @@ aside{
   background-color: rgb(8, 138, 138);
 }
 footer {
-  align-self: flex-end; /* Push footer to the bottom */
-  width: 100%; /* Full width */
+  align-self: flex-end; 
+  width: 100%;
 }
